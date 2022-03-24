@@ -35,3 +35,15 @@ For each test case, print two integers on a line: the total cost of the journey 
 ## Output model
 3 2<br>
 0 0
+
+# How to run
+
+In terminal, do
+
+**To compile your code, use**:
+* gcc -o <name_of_output> dijkstra.c
+
+**To execute, use**:
+* ./<name_of_output> < entrada
+
+> Change te sentence '<name_of_output>' to another name
